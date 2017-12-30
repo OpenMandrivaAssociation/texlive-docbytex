@@ -5,8 +5,8 @@
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-docbytex
-Version:	20140616
-Release:	4
+Version:	20170414
+Release:	1
 Summary:	Creating documentation from source code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/docbytex
