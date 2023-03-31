@@ -1,6 +1,6 @@
 Name:		texlive-docbytex
 Version:	34294
-Release:	1
+Release:	2
 Summary:	Creating documentation from source code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/docbytex
