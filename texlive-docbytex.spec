@@ -3,7 +3,7 @@ Version:	34294
 Release:	2
 Summary:	Creating documentation from source code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/generic/docbytex
+URL:		https://www.ctan.org/tex-archive/macros/generic/docbytex
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/docbytex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/docbytex.doc.r%{version}.tar.xz
